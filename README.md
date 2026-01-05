@@ -1,52 +1,55 @@
-# 👨‍💻 Cybersecurity Portfolio by Matthew Solomon
+# 👨‍💻 Cybersecurity Portfolio — Matthew Solomon
 
-Welcome to my cybersecurity learning and project portfolio. This repository showcases my journey from customer-focused roles into the world of cybersecurity — where I’m building the skills and hands-on experience to become a SOC Analyst.
+Welcome to my **cybersecurity learning and hands-on project portfolio**.  
+This repository demonstrates my journey into SOC analysis, focusing on **SIEM monitoring, log analysis, incident response, and threat detection**. All projects are designed to showcase practical skills aligned with **junior SOC / Blue Team roles**.
 
 ---
 
 ## 🚀 About Me
 
-I'm a driven and curious cybersecurity enthusiast, transitioning from a strong background in customer service and sales. I have completed:
+I am a driven **Junior SOC Analyst** based in Muscat, Oman, actively seeking **SOC Analyst / Cybersecurity Analyst roles in Europe, the UK, or remote environments**. My hands-on experience comes from:
 
-- ✅ [Google Cybersecurity Professional Certificate](#)
-- ✅ SOC Level 1 and 2 Labs on TryHackMe
-- ✅ Projects covering threat detection, phishing analysis, and network security
+- ✅ [Google Cybersecurity Professional Certificate](#)  
+- ✅ SOC Level 1 & 2 Labs on TryHackMe  
+- ✅ Forage Virtual Experience Programs: **AIG Shields Up** & **Mastercard Cybersecurity Simulation**  
+- ✅ Projects covering **SIEM investigations, log analysis, threat detection, and incident response workflows**
 
 ---
 
-## 🔐 Key Skills
+## 🔐 Core SOC Skills
 
-- Threat Hunting & Incident Response  
-- Network & Endpoint Security  
-- Linux & Windows Command Line  
-- Python for Security Automation  
-- SIEM tools (Splunk, Elastic Stack basics)  
-- Cloud Security Fundamentals (AWS)
+- **SOC Monitoring & Alert Triage** (Splunk, Microsoft Sentinel, ELK)  
+- **Log Analysis & Threat Detection** (Windows Event Logs, Linux, Sysmon)  
+- **Incident Response & Escalation Playbooks**  
+- **MITRE ATT&CK Mapping & Threat Hunting**  
+- **Python & Bash Automation for Security Tasks**  
+- **Network & Endpoint Security Analysis**  
+- **Cloud Security Fundamentals (AWS Basics)**  
 
 ---
 
 ## 📁 Projects Included
 
 | Project Title | Description | Tools Used |
-|---------------|-------------|-------------|
-| **A Day in the Life of a Junior SOC Analyst** | Simulated analyst workflow using SIEM tools and log investigation | TryHackMe, Splunk |
-| **Phishing Email Analysis Lab** | Dissected a phishing email and extracted IOCs | Google Cert, Wireshark |
-| **Basic Malware Analysis** | Static and behavioral analysis of a sample file | VirusTotal, Any.Run |
-| **Linux Security Hardening** | Configured a virtual machine with baseline security controls | Ubuntu, UFW, Auditd |
+|---------------|-------------|------------|
+| **[SIEM Log Analysis & Incident Investigation (TryHackMe SOC Lab)](https://github.com/Matt-Solo/siem-tryhackme-lab)** | Practical SOC investigation using Splunk and ELK to analyze logs, triage alerts, map activity to MITRE ATT&CK, and document incident response actions | Splunk, ELK, Sysmon, Windows Event Logs, MITRE ATT&CK |
+| **[SOC Level 1 Analyst Daily Workflow](https://github.com/Matt-Solo/A-Day-in-the-Life-of-a-SOC-Level-1-Analyst-TryHackMe-)** | Simulated a full SOC Tier 1 analyst day: alert monitoring, log investigation, incident escalation, and documentation | TryHackMe, Splunk, Incident Response Playbooks |
+| **[Windows Event Log Analysis — SOC Practice](https://github.com/Matt-Solo/windows-event-viewer-log-analysis)** | Analyzed Windows logs to identify suspicious events and demonstrate investigative reasoning | Windows Event Viewer, Sysmon, Splunk SPL |
+| **[SOC Analyst Fundamentals — Tools, Roles & IR Frameworks](https://github.com/Matt-Solo/SOC-Analyst-Fundamentals-Tools-Roles-Incident-Response-Frameworks)** | Documented foundational SOC knowledge including analyst roles, incident response lifecycle, SIEM tools, and security frameworks | NIST CSF, MITRE ATT&CK, Blue Team Frameworks |
 
 ---
 
-## 📸 Screenshots
+## 📌 How to Use This Portfolio
 
-You can find screenshots and explanations of each lab and task in the `Projects` folder.
-
----
-
-## 📬 Connect With Me
-
-- 🔗 [LinkedIn](#)  
-- 📧 Email: yourname@example.com  
+- **Recruiters & Hiring Managers:** Demonstrates practical skills for entry-level SOC roles  
+- **SOC / Blue Team Enthusiasts:** Provides hands-on lab examples, workflows, and templates  
+- **Technical Peers:** Reference for SIEM queries, Python automation, and incident documentation  
 
 ---
 
-> “Cybersecurity is not just a job, it’s a mindset — and I’m here to grow every day.”
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/matthew-solomon-29a53b89/)  
+- [GitHub](https://github.com/Matt-Solo)
+
+
